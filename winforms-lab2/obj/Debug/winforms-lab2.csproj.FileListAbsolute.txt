@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\obj\Debug\winforms-lab2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\obj\Debug\winforms_lab2.Properties.Resources.resources
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\obj\Debug\winforms-lab2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\obj\Debug\winforms-lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\bin\Debug\winforms-lab2.exe.config
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\bin\Debug\winforms-lab2.exe
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\bin\Debug\winforms-lab2.pdb
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\obj\Debug\winforms-lab2.exe
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\obj\Debug\winforms-lab2.pdb
+C:\Users\user\source\repos\winforms-lab2\winforms-lab2\obj\Debug\winforms_lab2.Form1.resources
